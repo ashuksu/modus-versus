@@ -1,0 +1,4 @@
+1. Верстка HTML5 + CSS3 (Bootstrap) + Js (jQuery, additional libraries)
+2. https://prnt.sc/tdamsp эти блоки можно просто вставить картинками
+3. Расширения mobile + desktop
+4. Результат в гит

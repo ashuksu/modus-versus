@@ -1,0 +1,40 @@
+$grey: #777;
+$grey-2: #7f8c8c;
+$blue: #76c7c0;
+$blue-2: #62b9b0;
+$tomato: #e8645a;
+$tomato-2: #e2534b;
+
+// * -----------------------------------------------------------------
+
+@mixin f-eb {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+}
+
+@mixin f-b {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+}
+
+@mixin f-sb {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+}
+
+@mixin f-sbi {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+@mixin f-r {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+}
+
+@mixin f-i {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
