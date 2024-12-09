@@ -2,6 +2,6 @@
 project for portfolio
 
 
-https://ashuksu.github.io/modus-versus/
+https://Ashuksu.github.io/modus-versus/
 
-https://github.com/ashuksu/modus-versus/
+https://github.com/Ashuksu/modus-versus/
